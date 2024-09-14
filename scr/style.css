@@ -181,7 +181,7 @@ img{
 
 /* =============== Hero Css start============ */
 .hero-section-area{
-    background-image: url('/assets/hero_sec/Frame.png');
+    background-image: url('../assets/hero_sec/Frame.png');
     background-position: right;
     background-repeat: no-repeat;
     background-size: contain;
